@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenue sur mon blog
 
-I'm glad you are here. I plan to talk about ...
+Content de voir ici. Je propose de discuter de .... nous verrons bien !
