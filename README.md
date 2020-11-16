@@ -19,3 +19,5 @@ Faut voir si cela dfonctionne d ela même façon sur gitlab, vu que je n'ai pas 
 Le top serait que j'ai mon propre serveur gitlab. C'est en cours...
 
 J'y mettrai plein de choses. Et avec un peu de chance, *des programmeurs y viendront pour m'aider à développer la base de données environnementale qui servira à __tout le monde__*. En particulier pour la gestion de notre bien commun : **l'eau**
+
+Zut, fallait enrtegistrer le changement sur une branche à part !
