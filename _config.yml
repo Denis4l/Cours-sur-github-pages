@@ -1,14 +1,15 @@
 title: Apprendre Github
-author: Moi
+author: MIT e ieu
 email: dennet@dennet.eu
-description: > # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:" .....Comprends pas ce que ça veut dire ?.....
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+  Si c'est que pour google, je m'en fous en fait.
 # Config
 theme: minima
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+mastodon_username: polhypro # DO NOT include the @ character, or else the build will fail!
+github_username:  Deunis4l # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
